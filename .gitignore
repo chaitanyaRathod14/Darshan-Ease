@@ -1,0 +1,15 @@
+.env
+package-lock.json
+node_modules/
+dist/
+coverage/
+logs/
+*.log
+.DS_Store
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+start.sh
+start.bat
+package.json
